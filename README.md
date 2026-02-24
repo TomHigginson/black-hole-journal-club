@@ -61,7 +61,7 @@ $^*$ Registration Only
 
 ## Minutes
 
-## 2026-02-03: Belinda
+## 2026-02-24: Belinda
 
 Discussed Paper:[Winds of Change: XRISM Resolve X-ray spectroscopy of NGC 4051](https://arxiv.org/abs/2602.19897) (Reeves et al., 02-2026)
 
@@ -77,7 +77,7 @@ Presented Paper: [A Theoretical Three-Dimensional Diagram to Separate Star Forma
 
 - The method opens new windows to study interplay in star forming regions, AGN, and shocks but makes clear that significant overlap in these regions require high quality data to disentangle 
 
-## 2026-02-03: Jiachen
+## 2026-02-17: Jiachen
 
 Presented Paper: [Modeling reflection spectra of super-Eddington X-ray sources](https://arxiv.org/abs/2407.12890) (Shashank et al., 07-2024)
 
@@ -88,7 +88,7 @@ Presented Paper: [Modeling reflection spectra of super-Eddington X-ray sources](
 - They show that applying standard thin-disc reflection models can bias inferred parameters when the accretion flow is actually thick.
 - The work highlights the importance of disc geometry in spectral modeling, since disc thickness and winds can mimic or mask relativistic effects in reflection spectra.
 
-## 2026-02-03: Gloria
+## 2026-02-10: Gloria
 
 Presented Paper: [The growing family of gamma-ray narrow-line Seyfert 1 galaxies](https://arxiv.org/abs/2601.18635) (Foschini, 01-2026)
 
