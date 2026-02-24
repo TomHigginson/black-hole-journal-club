@@ -1,17 +1,17 @@
 Please see below for the upcoming schedule and minute from this year for our Journal Club.
-If you would like to join this Journal Club (presenting is not compulsory) please email: thomas.higginson@bristol.ac.uk and use the subject: "BH Journal Club".
+If you would like to join this Journal Club (presenting is not compulsory) please email: darius.michienzi@bristol.ac.uk and use the subject: "BH Journal Club".
 
 We meet every Tuesday at:
 
-- **14:00 until 15:00 (UTC + 0)**
+- **11:00 until 12:00 (UTC + 0)**
 
-The Zoom link has been emailed to the group.
+Check the group email for the room and the Zoom link.
 
 ## Agenda
 
+- Brief discussion of papers from the week (~15 mins)
 - Presentation of chosen paper (~30 mins)
-- Discussion
-- Other papers from the week
+- Discussion and questions for the main presenter 
 
 ## Rota
 
@@ -19,8 +19,6 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 | Date       | Presenter   | Room |
 |------------|-------------|------|
-| 2026-02-17 | Jiachen     | 4.41 |
-| 2026-02-24 | Belinda     | 4.41 |
 | 2026-03-03 | Shashanth   | 4.41 |
 | 2026-03-10 | Thomas B    | 4.41 |
 | 2026-03-17 | Biz         | 4.41 |
@@ -30,6 +28,8 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 
 
 ## Interesting Conferences
+
+Please open an issue with any conferences you think might be of interest for the group and should be added to the list below. 
 
 | Title | Dates | Location | Abstract Deadline |
 |------------|--------|------|------------|
@@ -60,6 +60,43 @@ To generate additional entries for the rota, use `scripts/rota.py`.
 $^*$ Registration Only
 
 ## Minutes
+
+## 2026-02-03: Belinda
+
+Discussed Paper:[Winds of Change: XRISM Resolve X-ray spectroscopy of NGC 4051](https://arxiv.org/abs/2602.19897) (Reeves et al., 02-2026)
+
+- High-resolution XRISM spectrum of NGC 4051. The 150 ks observation show a blue shifted absorption feature which increases its blueshift in the later part of the observation 
+- They propose either a single ionised absorber which is accelerated outward coinciding with an increase in the continuum flux of two separate absorbers at different velocities moving in and out of line of sight 
+- They cannot distinguish between the two scenarios but highlight how the increase in flux is not sufficient to explain the acceleration by radiation pressure only but instead highlight the importance of magnetic acceleration in recombination events which may lead to both the flare and acceleration 
+
+Presented Paper: [A Theoretical Three-Dimensional Diagram to Separate Star Formation, Active Galactic Nuclei, and Shocks in Galaxies](https://arxiv.org/abs/2506.09962) (Zhu et al., 06-2025)
+
+- The paper introduces a new theoretical 3-D emission-line diagnostic for integral-field spectroscopy that can simultaneously disentangle star formation regions, AGN , and shock excitation, addressing the degeneracy between AGN and shocks in traditional 2-D BPT-type diagrams.
+
+- The method assigns each spatial pixel a fractional contribution from the three ionization mechanisms. Applying the diagnostic to VLT data of NGC 5728 reveals a kpc-scale star-forming ring, an AGN ionization bicone, and a fast shock-dominated region at the base of the outflow.
+
+- The method opens new windows to study interplay in star forming regions, AGN, and shocks but makes clear that significant overlap in these regions require high quality data to disentangle 
+
+## 2026-02-03: Jiachen
+
+Presented Paper: [Modeling reflection spectra of super-Eddington X-ray sources](https://arxiv.org/abs/2407.12890) (Shashank et al., 07-2024)
+
+- The paper develops new relativistic reflection models for super-Eddington accretion, where the standard thin, flat disc assumption is invalid and the flow becomes geometrically thick.
+- It introduces two key geometries: a slim disc with self-shadowing and a wind-funnel reflection surface, both of which change how the corona illuminates the reflector.
+- These geometries significantly alter the Fe Kα line profile, typically weakening the blue peak and modifying the emissivity pattern due to obscuration and light-bending in a thick flow.
+- The models are implemented in a new spectral framework suitable for fitting real X-ray data from super-Eddington sources such as ultraluminous X-ray sources.
+- They show that applying standard thin-disc reflection models can bias inferred parameters when the accretion flow is actually thick.
+- The work highlights the importance of disc geometry in spectral modeling, since disc thickness and winds can mimic or mask relativistic effects in reflection spectra.
+
+## 2026-02-03: Gloria
+
+Presented Paper: [The growing family of gamma-ray narrow-line Seyfert 1 galaxies](https://arxiv.org/abs/2601.18635) (Foschini, 01-2026)
+
+- The revised Fermi-LAT rev4FGL catalogue shows that γ-ray emission is not limited to blazars and radio galaxies but includes a growing population of jetted Seyfert-type AGN, especially γ-ray narrow-line Seyfert 1 (γ-NLS1) galaxies.
+- Using a sample of 1477 jetted AGN with spectroscopic redshifts, the paper compares the statistical properties of γ-ray detected and non-detected sources and examines their radio jet characteristics via VLBA data.
+- γ-NLS1 galaxies show relativistic jets similar to blazars but typically at lower black hole masses and higher accretion rates, implying they may represent the high-Eddington end of the jetted AGN population.
+- The paper discusses the challenge of classifying changing look AGN, and blazar like objects, suggesting a more continuous jet population rather than strictly separate classes.
+- The growing γ-NLS1 sample has implications for AGN unification and jet formation, indicating that powerful relativistic jets can form in systems with smaller black holes and disc dominated hosts.
 
 ## 2026-02-03: ArXiv
 
@@ -105,7 +142,7 @@ Discussed Papers:
 - If the SMBH has unusual accretion events, e.g., repeated TDEs, the resulting outflows can launch the Fermi bubble observed in our Galaxy.
 - (Historical star formation activities will be able to launch the Fermi bubble too)
 
-Present:
+Presented Paper:
 [Simulating radio emission from flickering AGN jets: travelling shocks and hotspot brightening](https://arxiv.org/abs/2601.13138) (Elley et al., 01-2026)
 Presentation slides:
 [Journal_Club_Presentations-3.pdf](https://github.com/user-attachments/files/25207138/Journal_Club_Presentations-3.pdf)
@@ -121,7 +158,7 @@ Disucssed Papers:
 - New findings suggest masses of $10^{5-7} M_\odot$ which is two orders of magnitude lower than previous estimates 
 - <img width="1126" height="784" alt="image" src="https://github.com/user-attachments/assets/9bddb1a7-efb6-4d55-a382-6555b58bb2eb" />
 
-Presented Paper:
+Presented Paper: 
 [Constraining black hole spin in PG 1535+547 amidst complex multi-layered absorption](https://arxiv.org/abs/2512.17539v1) (Madathil-Pottayil et al., 12-2025)
 - X-ray source close to BH
 - More light shining on disk than the observer
