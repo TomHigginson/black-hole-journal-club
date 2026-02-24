@@ -79,6 +79,24 @@ Presented Paper: [A Theoretical Three-Dimensional Diagram to Separate Star Forma
 
 ## 2026-02-17: Jiachen
 
+Discussed Papers:
+[A universal critical accretion rate for black hole jet formation](https://arxiv.org/pdf/2602.14838) (Goodwin & Mummery, 02-2026)
+May be interesting to some.
+- They look at TDEs as a probe for studying jet launching in SMBHs, akin to the jet-launching timescales of stellar-mass BHs.
+- TDEs launch outflows at super-Eddington and a distinctly different outflow at $L_{\text{crit}} \approx 0.02 L_{\text{Edd}}$ (the same as seen in stellar-mass BHs)
+- They study mechanism, properties and detections and seem to conclude that jet formation is BH-scale invariant.
+
+[Transient Relativistic Iron Emission Line from an X-ray Flaring Supermassive Black Hole](https://arxiv.org/abs/2602.09232) 
+
+[X-ray Timing and Spectral studies of bare AGN Mrk 110](https://arxiv.org/pdf/2602.09582) (Lahiri et al., 02-2026)
+Studies at the time lag of the soft excess of a Seyfert galaxy AGN with XMM observations. 
+- They detect a warm corona with weak relativistic reflection component
+- Without being able to determine a trend, the corona appears larger in a higher accretion state.
+
+[A Gravitational Wave Background from Intermediate Mass Black Holes in AGN Disks](https://arxiv.org/pdf/2602.09217) (Mingarelli, 02-2026)
+- Looks at some background constraints and separating the characteristic strain from the Galactic White Drawf foreground and stellar-mass EMRI background.
+- Links results to new proposed observatories including LISA and the Big Bang Observer.
+
 Presented Paper: [Modeling reflection spectra of super-Eddington X-ray sources](https://arxiv.org/abs/2407.12890) (Shashank et al., 07-2024)
 
 - The paper develops new relativistic reflection models for super-Eddington accretion, where the standard thin, flat disc assumption is invalid and the flow becomes geometrically thick.
@@ -89,6 +107,13 @@ Presented Paper: [Modeling reflection spectra of super-Eddington X-ray sources](
 - The work highlights the importance of disc geometry in spectral modeling, since disc thickness and winds can mimic or mask relativistic effects in reflection spectra.
 
 ## 2026-02-10: Gloria
+
+Discussed Papers:
+- [A highly ionised outflow in the X-ray binary 4U 1624-49 detected with XRISM](https://arxiv.org/abs/2601.19480) by Díaz Trigo et al. (2026)
+- [The Need for Ultra High Resolution X-ray Imaging](https://arxiv.org/abs/2601.20823) by Weaver et al. (2026)
+- [STONKS first results: Long-term transients in the XMM-Newton Galactic plane survey](https://arxiv.org/abs/2601.19328) by Webbe et al. (2026)
+- [Compton hump reverberation lag in the bright Seyfert 1 galaxy IC 4329A with NuSTAR](https://arxiv.org/pdf/2601.21537) by Barua et al. (2026)
+- [Water absorption confirms cool atmospheres in two little red dots](https://arxiv.org/abs/2602.06024) by Wang et al. (2026)
 
 Presented Paper: [The growing family of gamma-ray narrow-line Seyfert 1 galaxies](https://arxiv.org/abs/2601.18635) (Foschini, 01-2026)
 
